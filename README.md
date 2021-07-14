@@ -2,11 +2,11 @@
 <h3 align="center">A cybersecurity student</h3>
 
 
-- 🌱 I’m currently learning **unity**
+- 🌱 I’m currently learning **Solidity**
 
-- 👨‍💻 All of my projects are available at [temp-link](temp-link)
+- 👨‍💻 All of my projects are available [here](https://luigi-bozzoli.github.io/html/portfolio.html)
 
-- 📫 How to reach me **temp-link-contact**
+- 📫 [Contact me](https://docs.google.com/forms/d/e/1FAIpQLSc5s_14Kk3EFQd8UT82o8MgLgp-p--6layDjV1EifpHv8bnmA/viewform)
 
 - ⚡ Fun fact **I know how to farm in the event that machines take over society 🤷‍♂️**
 
